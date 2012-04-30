@@ -1,0 +1,21 @@
+#README - EZLogin
+
+---
+
+This tool was developed by Matthew Reidsma in PHP to log in to home-grown library apps using OCLC's EZProxy. We hope you find it useful.
+
+INSTALLATION
+
+For detailed usage instructions, refer to my article "Single Sign-on with EZProxy: First Steps" at http://matthewreidsma.com/articles/20
+
+More questions? Feel free to contact Matthew Reidsma on Twitter at @mreidsma or via email at reidsmam@gvsu.edu.
+
+COPYRIGHT
+
+This tool is copyright 2012 Grand Valley State University Libraries. 
+
+This tool is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This tool is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this tool. If not, see <http://www.gnu.org/licenses/>.
